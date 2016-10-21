@@ -124,6 +124,8 @@ Arguments:
   <type>
     the process type as defined in your Procfile, such as 'web' or 'worker'.
     Note that Dockerfile apps have a default 'cmd' process type.
+  <value>
+    the number of limit value.
 
 Options:
   -a --app=<app>
